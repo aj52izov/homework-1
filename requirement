@@ -1,0 +1,7 @@
+python >= 3.6
+pandas
+nltk
+matplotlib
+spacy
+sklearn
+python3 -m spacy download de_dep_news_trf
