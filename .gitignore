@@ -7,3 +7,5 @@
 /Repport/confusion_matrix.png
 /Repport/imbalanced.png
 /Repport/training-testing.png
+/__pycache__/pipeline.cpython-38.pyc
+/__pycache__/preprocessing.cpython-38.pyc
